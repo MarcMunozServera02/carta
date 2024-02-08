@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+
+{% block content %}
+<form method="post" action="checkLogin">
+    <label for="usuario">Usuario:</label>
+    <input type="text" name="usuario" required><br>
+    <label for="contrasena">Contraseña:</label>
+    <input type="password" name="contrasena" required><br>
+    <input type="submit" value="Iniciar sesión">
+</form>
+{% endblock %}

@@ -1,0 +1,17 @@
+{
+    "name": "iaw/projecte",
+    "description": "Dino archivo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "IAW\\Projecte\\": "src/IAW/Projecte/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^3.8",
+        "ext-sqlite3": "*",
+        "ext-pdo": "*"
+    }
+}
+

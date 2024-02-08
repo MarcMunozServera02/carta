@@ -1,0 +1,12 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>Panel de Control</h1>
+{% if administrador=='S' %}
+<a href="registro">Registrar usuario</a><br/>
+<a href="verusuarios">Ver usuarios</a>
+{%endif%}
+<p>Bienvenido,{{title}}!</p>
+<a href="vercorreo">Ver correo</a><br/>
+<a href="logout">Cerrar sesión</a>
+{% endblock %}

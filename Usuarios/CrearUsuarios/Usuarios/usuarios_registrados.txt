@@ -1,0 +1,7 @@
+Usuario: Prueba4, Contraseña: 12345, Nombre: Prueba, Email: marccolegio1@gmail.com, Admin: 1
+Usuario: Prueba5, Contraseña: 12345, Nombre: Prueba, Email: marccolegio1@gmail.com, Admin: 1
+Usuario: Prueba6, Contraseña: 1234556, Nombre: Prueba, Email: marccolegio1@gmail.com, Admin: 1
+Usuario: marc, Contraseña: 12345, Nombre: Marc Muñoz, Email: mms02@iesemilidarder.com, Admin: 1
+Usuario: marc2, Contraseña: 12345, Nombre: Marc Muñoz, Email: mms02@iesemilidarder.com, Admin: 0
+Usuario: Marc3, Contraseña: 12345, Nombre: Marc Muñoz, Email: mms02@iesemilidarder.com, Admin: 1
+Usuario: noadmin, Contraseña: 12345, Nombre: Marc Muñoz, Email: mms02@iesemilidarder.com, Admin: 0
